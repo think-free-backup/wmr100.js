@@ -6,8 +6,8 @@ node.js wrapper for https://github.com/barnybug/wmr100
 Install
 -------
 
-npm install restify
-place wmr100 binary in the same folder
+- npm install restify
+- Place wmr100 binary in the same folder
 
 Run
 ---
